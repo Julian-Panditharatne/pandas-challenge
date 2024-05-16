@@ -9,7 +9,20 @@ This challenge involves creating and manipulating DataFrames using Pandas and Ju
 
 ## Repository Files and Folders
 
+Besides this README file, there are four other files and a folder.
 
+The folder, which is called *Resources* contains two csv files:
+
+- **schools_complete.csv**: a dataset containing information about certain schools.
+
+- **students_complete.csv**: a dataset containing information about each of the students of those schools.
+
+
+The two other files in the repository are the following:
+
+- **PyCitySchools_starter.ipynb**: The jupyter notebook file containing the starter code used in the main script file, **PyCitySchools.ipynb**.
+
+- **PyCitySchools.ipynb**: The jupyter notebook file containing the script run to analyze the school and standardized test data in **schools_complete.csv** and **students_complete.csv**.
 
 ---
 
